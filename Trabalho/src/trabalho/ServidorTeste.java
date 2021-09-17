@@ -31,7 +31,7 @@ import java.util.logging.Logger;
  */
 public class ServidorTeste {
 
-   private static ServerSocket svSoc;
+private static ServerSocket svSoc;
     private static Socket soc;
     private static Socket soc2;
     
